@@ -33,7 +33,7 @@ The application is built using Streamlit for an interactive UI, pdfplumber for P
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python 3.x  
 - Streamlit  
