@@ -2,9 +2,9 @@
 
 ## 🔍 Overview
 
-The Social Media Content Analyzer is a web-based application that extracts and analyzes textual content from PDF and image files. It combines traditional PDF parsing with Optical Character Recognition (OCR) to support both text-based and scanned documents.
+The Social Media Content Analyzer is a web-based application that extracts and analyzes textual content from PDF and image files. It combines traditional PDF parsing with Optical Character Recognition (OCR) to support both text based and scanned documents.
 
-After extracting the content, the system performs rule-based analysis to generate actionable engagement insights tailored for social media platforms. It evaluates word count, hashtag usage, emoji density, sentence structure, and the presence of call-to-action phrases. Based on these metrics, it provides optimization suggestions to improve readability, engagement, and overall reach.
+After extracting the content, the system performs rule-based analysis to generate actionable engagement insights tailored for social media platforms. It evaluates word count, hashtag usage, emoji density, sentence structure, and the presence of call to action phrases. Based on these metrics, it provides optimization suggestions to improve readability, engagement, and overall reach.
 
 The application is built using Streamlit for an interactive UI, pdfplumber for PDF parsing, Tesseract OCR for text recognition, and OpenCV for advanced image preprocessing. The system is lightweight, deployable, and designed to simulate a practical content optimization workflow.
 
@@ -68,7 +68,7 @@ The analyzer evaluates:
 - Caption length (optimal range)  
 - Hashtag density  
 - Emoji usage  
-- Presence of call-to-action phrases  
+- Presence of call to action phrases  
 - Engagement triggers such as questions  
 
 Suggestions are generated to enhance social media performance while maintaining clarity and structure.
