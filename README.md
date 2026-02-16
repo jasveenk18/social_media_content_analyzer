@@ -1,6 +1,6 @@
-# 📊 Social Media Content Analyzer
+#  Social Media Content Analyzer
 
-## 🔍 Overview
+##  Overview
 
 The Social Media Content Analyzer is a web-based application that extracts and analyzes textual content from PDF and image files. It combines traditional PDF parsing with Optical Character Recognition (OCR) to support both text based and scanned documents.
 
@@ -10,26 +10,26 @@ The application is built using Streamlit for an interactive UI, pdfplumber for P
 
 ---
 
-## 🚀 Live Application
+##  Live Application
 
 🔗 https://socialmediacontentanalyzer-ean2k624aopfwhjrabeyst.streamlit.app/
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📄 Text extraction from standard PDFs  
-- 🖼 OCR-based extraction for scanned PDFs and images  
-- 🔍 Advanced image preprocessing using OpenCV  
-- 📊 Content metrics:
+-  Text extraction from standard PDFs  
+-  OCR-based extraction for scanned PDFs and images  
+-  Advanced image preprocessing using OpenCV  
+-  Content metrics:
   - Word count  
   - Hashtag count  
   - Emoji count  
   - Sentence count  
-- 💡 Engagement optimization suggestions  
-- 🚀 Auto-generated optimized caption  
-- 📥 Downloadable analysis report  
-- 🎯 Clean and responsive Streamlit interface  
+-  Engagement optimization suggestions  
+-  Auto-generated optimized caption  
+-  Downloadable analysis report  
+-  Clean and responsive Streamlit interface  
 
 ---
 
@@ -45,7 +45,7 @@ The application is built using Streamlit for an interactive UI, pdfplumber for P
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The user uploads a PDF or image file.  
 2. Text extraction:
@@ -61,7 +61,7 @@ The application is built using Streamlit for an interactive UI, pdfplumber for P
 
 ---
 
-## 🧠 Content Analysis Logic
+##  Content Analysis Logic
 
 The analyzer evaluates:
 
@@ -75,7 +75,7 @@ Suggestions are generated to enhance social media performance while maintaining 
 
 ---
 
-## 📦 Installation (Local Setup)
+##  Installation (Local Setup)
 
 Clone the repository:
 
@@ -98,7 +98,7 @@ streamlit run app.py
 
 ---
 
-## 🌍 Deployment Notes (Streamlit Cloud)
+##  Deployment Notes (Streamlit Cloud)
 
 Ensure the repository includes:
 
@@ -121,7 +121,7 @@ tesseract-ocr
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 social_media_content_analyzer/
@@ -135,7 +135,7 @@ social_media_content_analyzer/
 
 ---
 
-## 📌 Use Cases
+##  Use Cases
 
 - Social media managers  
 - Content creators  
@@ -145,7 +145,7 @@ social_media_content_analyzer/
 
 ---
 
-## 👩‍💻 Developed By
+##  Developed By
 
 Jasveen Kaur  
 Software Engineer Technical Assessment
